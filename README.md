@@ -1,5 +1,6 @@
 # conversion-to-number-systems
  converting rational numbers to different number systems
+ 
 Вход:
 строка 1:
 	целые числа b1 и b2 от 2 до 16 -- основание исходной и конечной с.с.
